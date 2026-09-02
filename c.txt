@@ -1,0 +1,14 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 688E-6212
+
+ Directory of C:\Users\Faculty\second
+
+09/02/2026  11:52 AM    <DIR>          .
+09/02/2026  11:52 AM    <DIR>          ..
+09/02/2026  11:52 AM                 0 c.txt
+09/02/2026  11:41 AM                38 hello.c
+09/02/2026  11:41 AM         4,056,552 LAB MANUAL 3.pdf
+09/02/2026  11:41 AM               407 README.md
+09/02/2026  11:42 AM    <DIR>          s
+               4 File(s)      4,056,997 bytes
+               3 Dir(s)  311,136,436,224 bytes free
