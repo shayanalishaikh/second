@@ -27,7 +27,5 @@ printf();
 - [ ] task 3
 ![image not found]()
 [link](https://github.com/shayanalishaikh/second/edit/main/README.md)
-| name | caste | university |
-|---|---|---|
 
 
