@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 688E-6212
+
+ Directory of C:\Users\Faculty\second\s
+
+09/02/2026  11:42 AM    <DIR>          .
+09/02/2026  11:42 AM    <DIR>          ..
+09/02/2026  11:42 AM                 0 d.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  311,137,349,632 bytes free
